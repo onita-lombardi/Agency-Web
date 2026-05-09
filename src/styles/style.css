@@ -230,7 +230,7 @@ main{
     gap: 35px; /* Distância entre os elementos */
     align-items: center; /* Cuida da Horizontal (Flex-direction: column)*/
     padding: 60px 48px; /* Espaçamento interno */
-    border-radius: 20px;
+    border-radius: 20px; /* Arredondamento da borda */
 }
 
 .card-benefit p{
@@ -239,4 +239,47 @@ main{
 
 .card-benefit-secondary{
     background-color: #F4F4F4;
+}
+
+.card-benefit h2{
+    font-family: var(--font-family-primary); /* Família da fonte */
+    font-size: var(--font-size-h3);
+    width: 365px;
+    text-align: center;
+}
+
+.card-benefit p{
+    font-family: var(--font-family-primary); /* Família da fonte */
+    color: var(--gray); /* Cor do texto */
+    text-align: center;
+    line-height: 30px; /* espaçamento entre linhas */
+}
+
+.btn-benefit{
+    padding: 10px 35px; /* Espaçamento interno */
+    border-radius: 10px; /* Arredondamento da borda */
+    background-color: var(--color-blue);
+    color: var(--color-white); /* Cor do texto */
+    text-decoration: none; /* Decoração do texto */
+    font-family: var(--font-family-primary); /* Família da fonte */
+    font-weight: var(--font-weight-button); 
+}
+
+.card-benefit-primary{
+    background-color: var(--color-blue);
+    color: var(--color-white);
+}
+
+.card-benefit-primary p{
+    color: var(--color-white);
+}
+
+.btn-benefit-secondary{
+    background-color: var(--color-white);
+    padding: 10px 35px; /* Espaçamento interno */
+    border-radius: 10px; /* Arredondamento da borda */
+    color: var(--color-blue); /* Cor do texto */
+    text-decoration: none; /* Decoração do texto */
+    font-weight: var(--font-weight-button); 
+    font-family: var(--font-family-primary); /* Família da fonte */
 }
