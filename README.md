@@ -1,6 +1,6 @@
 <!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ AgencyWeb - Concluído ✅🚀
+	  ✅ AgencyWeb - Concluído ✅
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
@@ -69,7 +69,7 @@ Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.c
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
+#### **Front-End**
 
 - **HTML**
 - **CSS**
@@ -96,8 +96,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- MODELO DE AUTOR-->
 ## 🦸 Autor
 
-<a href="https://www.linkedin.com/in/onita-lombardi">
-Onita Lombardi</a>
- <br />
- 
-[![Gmail Badge](https://img.shields.io/badge/-onita.clombardi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onita.clombardi@gmail.com)](mailto:onita.clombardi@gmail.com)
+<a href="https://www.linkedin.com/in/onita-lombardi">Onita Lombardi</a>
+
+<div style="display:flex; flex-direction:row; justify-content:flex-start; gap:5px;">
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square)](https://www.linkedin.com/in/onita-lombardi) [![Gmail Badge](https://img.shields.io/badge/-onita.clombardi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onita.clombardi@gmail.com)](mailto:onita.clombardi@gmail.com)
+</div>
