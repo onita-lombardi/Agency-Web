@@ -448,17 +448,25 @@ footer{
     }
 
     .content-service{
-        align-items: center;
-        justify-content: center;
+        align-items: flex-start;
+        /* justify-content: flex-start; */
     }
 
     .services-details{
         justify-content: center;
     }
 
+    .services-details p{
+        width: fit-content;
+    }
+
     .section-benefit{
         flex-direction: column;
         align-items: center;
+    }
+
+    .service-img img{
+        width: 514px;
     }
 
     .container-company{
@@ -518,7 +526,8 @@ footer{
     }
 
     .services-details{
-        width: 300px;
+        width: 420px;
+        justify-content: flex-start;
     }
     
     .card-benefit p{
